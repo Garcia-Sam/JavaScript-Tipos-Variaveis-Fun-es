@@ -19,7 +19,7 @@ const conotaPaga = false
 let minhaVar
 let varNULL = null
 console.log(typeof minhaVar)
-console.log(typeof varNULL)
+console.log(typeof varNULL) // ==> retorna Object
 
 let numero = 3
 let texto = 'Alura'
