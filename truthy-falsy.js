@@ -4,8 +4,8 @@ const conotaPaga = false
 
 // truthy ou falsy - não são booleanos, mas se comportam como
 
-// 0 ==> false
-// 1 ==> true
+// 0 => false
+// 1 => true
 
 //console.log(0 == false)   // ==> true
 //console.log('' == false) // ==> true
